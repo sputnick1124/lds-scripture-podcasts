@@ -20,7 +20,7 @@ def indent(elem, level=0):
 
 def format_item(arg, book):
     today = datetime.strftime(datetime.today(), '%A, %d %b %Y %H:%M:%S')
-    uri = 'https://raw.githubusercontent.com/sputnick1124/lds-scipture-podcasts/master/{0}/{1}'.format(book, arg)
+    uri = 'https://raw.githubusercontent.com/sputnick1124/lds-scripture-podcasts/master/{0}/{1}'.format(book, arg)
     guid = ET.Element('guid')
     guid.text = uri
     link = ET.Element('link')

@@ -19,7 +19,7 @@ while read line; do
 	curl "$uri" -o "$1/$FN"
 	DOWNLOADS="$DOWNLOADS $FN"
 	echo "$DOWNLOADS"
-	LENGTH=$(mp3info -p "%S" "$FN")
+	LENGTH=$(mp3info -p "%S" "$1/$FN")
 	((TOT_LENGTH+=LENGTH))
 	if (( TOT_LENGTH > 1800 )); then
 		echo "$LINENUM" > "$LINE_CACHE"
