@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
-CHAP_FILE="$1.txt"
+CHAP_FILE="$1/$1.txt"
 TOT_LENGTH=0
+LINE_CACHE="$1/.ln"
 DOWNLOADS=""
 
-if [ -f .ln ]; then
-	LINENUM=$(cat .ln)
+if [ -f "$LINE_CACHE" ]; then
+	LINENUM=$(cat "$LINE_CACHE")
 else
 	LINENUM=0
 fi
@@ -15,13 +16,13 @@ while read line; do
 	echo "Downloading $line"
 	uri=$(python3 mp3-geturi.py $(echo "$line" | xargs))
 	FN=$(echo "$line" | tr -d '[:space:]')".mp3"
-	curl "$uri" -o "$FN"
+	curl "$uri" -o "$1/$FN"
 	DOWNLOADS="$DOWNLOADS $FN"
 	echo "$DOWNLOADS"
 	LENGTH=$(mp3info -p "%S" "$FN")
 	((TOT_LENGTH+=LENGTH))
 	if (( TOT_LENGTH > 1800 )); then
-		echo "$LINENUM" > .ln
+		echo "$LINENUM" > "$LINE_CACHE"
 		echo "Adding new files to RSS feed"
 		./add_item.py $1$DOWNLOADS
 		break

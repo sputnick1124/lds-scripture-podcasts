@@ -18,9 +18,9 @@ def indent(elem, level=0):
         if level and (not elem.tail or not elem.tail.strip()):
             elem.tail = i
 
-def format_item(arg):
+def format_item(arg, book):
     today = datetime.strftime(datetime.today(), '%A, %d %b %Y %H:%M:%S')
-    uri = 'http://192.168.200.22:8080/{}'.format(arg)
+    uri = 'https://raw.githubusercontent.com/sputnick1124/lds-scipture-podcasts/master/{0}/{1}'.format(book, arg)
     guid = ET.Element('guid')
     guid.text = uri
     link = ET.Element('link')
@@ -50,7 +50,7 @@ if __name__ == '__main__':
         channel = root.find('channel')
         for arg in sys.argv[1:]:
             print("Arg received: {}".format(arg))
-            channel.append(format_item(arg))
+            channel.append(format_item(arg, podcast))
         indent(root)
         tree.write('rss/{}.rss'.format(podcast))
 
