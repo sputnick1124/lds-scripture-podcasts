@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-CHAP_FILE='bofm.txt'
+CHAP_FILE="$1.txt"
 TOT_LENGTH=0
 DOWNLOADS=""
 
@@ -23,7 +23,7 @@ while read line; do
 	if (( TOT_LENGTH > 1800 )); then
 		echo "$LINENUM" > .ln
 		echo "Adding new files to RSS feed"
-		./add_item.py $DOWNLOADS
+		./add_item.py $1$DOWNLOADS
 		break
 	fi
 done

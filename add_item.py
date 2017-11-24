@@ -43,7 +43,8 @@ def format_item(arg):
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
-        with open('rss/scripture-podcast.rss','r') as rss:
+        podcast = sys.argv[1]
+        with open('rss/{}.rss'.format(podcast),'r') as rss:
             tree = ET.parse(rss)
         root = tree.getroot()
         channel = root.find('channel')
@@ -51,5 +52,5 @@ if __name__ == '__main__':
             print("Arg received: {}".format(arg))
             channel.append(format_item(arg))
         indent(root)
-        tree.write('rss/scripture-podcast.rss')
+        tree.write('rss/{}.rss'.format(podcast))
 
