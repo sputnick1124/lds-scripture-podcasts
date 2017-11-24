@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 CHAP_FILE="$1/$1.txt"
 TOT_LENGTH=0
 LINE_CACHE="$1/.ln"
