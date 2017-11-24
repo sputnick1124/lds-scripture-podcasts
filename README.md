@@ -4,5 +4,5 @@ supports Book of Mormon, but there is no barrier to supporting all of the standa
 
 ## Adding to your podcast feed
 Point your podcast to the rss feed located at:
-`https://raw.githubusercontent/sputnick1124/scripture-podcasts/rss/bofm.rss`
+`https://raw.githubusercontent.com/sputnick1124/lds-scripture-podcasts/master/rss/bofm.rss`
 and it should behave just like a normal podcast.
