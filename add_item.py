@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import sys
+import os
 from datetime import datetime
 import xml.etree.ElementTree as ET
 
@@ -26,7 +27,7 @@ def format_item(arg, book):
     link = ET.Element('link')
     link.text = uri
     title = ET.Element('title')
-    title.text = arg
+    title.text = os.path.splitext(arg)[0]
     desc = ET.Element('description')
     desc.text = arg
     pub = ET.Element('pubDate')

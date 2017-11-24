@@ -7,7 +7,7 @@ DOWNLOADS=""
 if [ -f "$LINE_CACHE" ]; then
 	LINENUM=$(cat "$LINE_CACHE")
 else
-	LINENUM=0
+	LINENUM=1
 fi
 
 tail -n +"$LINENUM" "$CHAP_FILE" | \
@@ -18,7 +18,6 @@ while read line; do
 	FN=$(echo "$line" | tr -d '[:space:]')".mp3"
 	curl "$uri" -o "$1/$FN"
 	DOWNLOADS="$DOWNLOADS $FN"
-	echo "$DOWNLOADS"
 	LENGTH=$(mp3info -p "%S" "$1/$FN")
 	((TOT_LENGTH+=LENGTH))
 	if (( TOT_LENGTH > 1800 )); then
