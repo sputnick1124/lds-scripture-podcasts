@@ -4,14 +4,6 @@
     <description>Daily Scripture Download</description>
     <link>http://192.168.200.22:8080/rss/scripture-podcasts.rss</link>
     <item>
-      <guid>https://raw.githubusercontent.com/sputnick1124/lds-scipture-podcasts/master/bofm/bofm</guid>
-      <link>https://raw.githubusercontent.com/sputnick1124/lds-scipture-podcasts/master/bofm/bofm</link>
-      <title>bofm</title>
-      <description>bofm</description>
-      <pubDate>Thursday, 23 Nov 2017 23:31:59</pubDate>
-      <enclosure length="0" type="audio/mpeg" url="https://raw.githubusercontent.com/sputnick1124/lds-scipture-podcasts/master/bofm/bofm" />
-    </item>
-    <item>
       <guid>https://raw.githubusercontent.com/sputnick1124/lds-scipture-podcasts/master/bofm/1-ne1.mp3</guid>
       <link>https://raw.githubusercontent.com/sputnick1124/lds-scipture-podcasts/master/bofm/1-ne1.mp3</link>
       <title>1-ne1.mp3</title>

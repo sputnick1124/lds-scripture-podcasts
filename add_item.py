@@ -48,7 +48,7 @@ if __name__ == '__main__':
             tree = ET.parse(rss)
         root = tree.getroot()
         channel = root.find('channel')
-        for arg in sys.argv[1:]:
+        for arg in sys.argv[2:]:
             print("Arg received: {}".format(arg))
             channel.append(format_item(arg, podcast))
         indent(root)
