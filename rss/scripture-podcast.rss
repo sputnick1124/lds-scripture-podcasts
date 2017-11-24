@@ -1,0 +1,7 @@
+<rss version="2.0">
+  <channel>
+    <title>Scriptures Daily</title>
+    <description>Daily Scripture Download</description>
+    <link>http://192.168.200.22:8080/rss/scripture-podcasts.rss</link>
+  </channel>
+</rss>
