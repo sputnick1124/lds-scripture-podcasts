@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-pushd "$DIR"
 CHAP_FILE="$1/$1.txt"
 TOT_LENGTH=0
 LINE_CACHE="$1/.ln"
@@ -29,4 +28,3 @@ while read line; do
 		break
 	fi
 done
-popd "$DIR"
