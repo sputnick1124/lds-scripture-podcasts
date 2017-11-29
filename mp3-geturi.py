@@ -4,7 +4,10 @@ import argparse
 from random import sample
 
 import requests
-from urllib.parse import urlparse
+if sys.version_info.major == 2:
+    from urlparse import urlparse
+elif sys.version_info.major == 3:
+    from urllib.parse import urlparse
 from bs4 import BeautifulSoup as BS
 
 def get_uri(work, book, chapter):

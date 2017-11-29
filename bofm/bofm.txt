@@ -1,239 +1,239 @@
-1-ne 1 
-1-ne 2 
-1-ne 3 
-1-ne 4 
-1-ne 5 
-1-ne 6 
-1-ne 7 
-1-ne 8 
-1-ne 9 
-1-ne 10 
-1-ne 11 
-1-ne 12 
-1-ne 13 
-1-ne 14 
-1-ne 15 
-1-ne 16 
-1-ne 17 
-1-ne 18 
-1-ne 19 
-1-ne 20 
-1-ne 21 
-1-ne 22 
-2-ne 1 
-2-ne 2 
-2-ne 3 
-2-ne 4 
-2-ne 5 
-2-ne 6 
-2-ne 7 
-2-ne 8 
-2-ne 9 
-2-ne 10 
-2-ne 11 
-2-ne 12 
-2-ne 13 
-2-ne 14 
-2-ne 15 
-2-ne 16 
-2-ne 17 
-2-ne 18 
-2-ne 19 
-2-ne 20 
-2-ne 21 
-2-ne 22 
-2-ne 23 
-2-ne 24 
-2-ne 25 
-2-ne 26 
-2-ne 27 
-2-ne 28 
-2-ne 29 
-2-ne 30 
-2-ne 31 
-2-ne 32 
-2-ne 33 
-jacob 1 
-jacob 2 
-jacob 3 
-jacob 4 
-jacob 5 
-jacob 6 
-jacob 7 
-enos 1 
-jarom 1 
-omni 1 
-w-of-m 1 
-mosiah 1 
-mosiah 2 
-mosiah 3 
-mosiah 4 
-mosiah 5 
-mosiah 6 
-mosiah 7 
-mosiah 8 
-mosiah 9 
-mosiah 10 
-mosiah 11 
-mosiah 12 
-mosiah 13 
-mosiah 14 
-mosiah 15 
-mosiah 16 
-mosiah 17 
-mosiah 18 
-mosiah 19 
-mosiah 20 
-mosiah 21 
-mosiah 22 
-mosiah 23 
-mosiah 24 
-mosiah 25 
-mosiah 26 
-mosiah 27 
-mosiah 28 
-mosiah 29 
-alma 1 
-alma 2 
-alma 3 
-alma 4 
-alma 5 
-alma 6 
-alma 7 
-alma 8 
-alma 9 
-alma 10 
-alma 11 
-alma 12 
-alma 13 
-alma 14 
-alma 15 
-alma 16 
-alma 17 
-alma 18 
-alma 19 
-alma 20 
-alma 21 
-alma 22 
-alma 23 
-alma 24 
-alma 25 
-alma 26 
-alma 27 
-alma 28 
-alma 29 
-alma 30 
-alma 31 
-alma 32 
-alma 33 
-alma 34 
-alma 35 
-alma 36 
-alma 37 
-alma 38 
-alma 39 
-alma 40 
-alma 41 
-alma 42 
-alma 43 
-alma 44 
-alma 45 
-alma 46 
-alma 47 
-alma 48 
-alma 49 
-alma 50 
-alma 51 
-alma 52 
-alma 53 
-alma 54 
-alma 55 
-alma 56 
-alma 57 
-alma 58 
-alma 59 
-alma 60 
-alma 61 
-alma 62 
-alma 63 
-hel 1 
-hel 2 
-hel 3 
-hel 4 
-hel 5 
-hel 6 
-hel 7 
-hel 8 
-hel 9 
-hel 10 
-hel 11 
-hel 12 
-hel 13 
-hel 14 
-hel 15 
-hel 16 
-3-ne 1 
-3-ne 2 
-3-ne 3 
-3-ne 4 
-3-ne 5 
-3-ne 6 
-3-ne 7 
-3-ne 8 
-3-ne 9 
-3-ne 10 
-3-ne 11 
-3-ne 12 
-3-ne 13 
-3-ne 14 
-3-ne 15 
-3-ne 16 
-3-ne 17 
-3-ne 18 
-3-ne 19 
-3-ne 20 
-3-ne 21 
-3-ne 22 
-3-ne 23 
-3-ne 24 
-3-ne 25 
-3-ne 26 
-3-ne 27 
-3-ne 28 
-3-ne 29 
-3-ne 30 
-4-ne 1 
-morm 1 
-morm 2 
-morm 3 
-morm 4 
-morm 5 
-morm 6 
-morm 7 
-morm 8 
-morm 9 
-ether 1 
-ether 2 
-ether 3 
-ether 4 
-ether 5 
-ether 6 
-ether 7 
-ether 8 
-ether 9 
-ether 10 
-ether 11 
-ether 12 
-ether 13 
-ether 14 
-ether 15 
-moro 1 
-moro 2 
-moro 3 
-moro 4 
-moro 5 
-moro 6 
-moro 7 
-moro 8 
-moro 9 
-moro 10 
+1-ne 1 407
+1-ne 2 323
+1-ne 3 382
+1-ne 4 491
+1-ne 5 292
+1-ne 6 83
+1-ne 7 359
+1-ne 8 471
+1-ne 9 112
+1-ne 10 356
+1-ne 11 487
+1-ne 12 331
+1-ne 13 688
+1-ne 14 510
+1-ne 15 594
+1-ne 16 554
+1-ne 17 963
+1-ne 18 469
+1-ne 19 481
+1-ne 20 282
+1-ne 21 405
+1-ne 22 596
+2-ne 1 578
+2-ne 2 573
+2-ne 3 426
+2-ne 4 538
+2-ne 5 426
+2-ne 6 342
+2-ne 7 182
+2-ne 8 330
+2-ne 9 923
+2-ne 10 403
+2-ne 11 137
+2-ne 12 258
+2-ne 13 253
+2-ne 14 86
+2-ne 15 336
+2-ne 16 162
+2-ne 17 270
+2-ne 18 234
+2-ne 19 251
+2-ne 20 360
+2-ne 21 201
+2-ne 22 70
+2-ne 23 243
+2-ne 24 342
+2-ne 25 651
+2-ne 26 560
+2-ne 27 526
+2-ne 28 495
+2-ne 29 311
+2-ne 30 263
+2-ne 31 384
+2-ne 32 170
+2-ne 33 243
+jacob 1 290
+jacob 2 529
+jacob 3 261
+jacob 4 391
+jacob 5 1392
+jacob 6 214
+jacob 7 487
+enos 1 473
+jarom 1 298
+omni 1 577
+w-of-m 1 324
+mosiah 1 370
+mosiah 2 779
+mosiah 3 483
+mosiah 4 630
+mosiah 5 291
+mosiah 6 126
+mosiah 7 593
+mosiah 8 354
+mosiah 9 341
+mosiah 10 363 
+mosiah 11 480 
+mosiah 12 529 
+mosiah 13 406 
+mosiah 14 198 
+mosiah 15 472 
+mosiah 16 238 
+mosiah 17 258 
+mosiah 18 518 
+mosiah 19 348 
+mosiah 20 376 
+mosiah 21 494 
+mosiah 22 235 
+mosiah 23 445 
+mosiah 24 364 
+mosiah 25 332 
+mosiah 26 484 
+mosiah 27 607 
+mosiah 28 304 
+mosiah 29 725 
+alma 1 612
+alma 2 520
+alma 3 384
+alma 4 372
+alma 5 1121
+alma 6 148
+alma 7 585
+alma 8 459
+alma 9 573
+alma 10 510
+alma 11 570
+alma 12 722
+alma 13 519
+alma 14 574
+alma 15 294
+alma 16 395
+alma 17 712
+alma 18 613
+alma 19 594
+alma 20 444
+alma 21 357
+alma 22 661
+alma 23 285
+alma 24 518
+alma 25 276
+alma 26 637
+alma 27 448
+alma 28 221
+alma 29 274
+alma 30 962
+alma 31 564
+alma 32 720
+alma 33 323
+alma 34 606
+alma 35 264
+alma 36 477
+alma 37 773
+alma 38 262
+alma 39 311
+alma 40 439
+alma 41 297
+alma 42 514
+alma 43 862
+alma 44 481
+alma 45 403
+alma 46 671
+alma 47 608
+alma 48 408
+alma 49 517
+alma 50 657
+alma 51 642
+alma 52 649
+alma 53 425
+alma 54 379
+alma 55 448
+alma 56 808
+alma 57 555
+alma 58 678
+alma 59 193
+alma 60 740
+alma 61 325
+alma 62 860
+alma 63 250
+hel 1 556
+hel 2 232
+hel 3 573
+hel 4 374
+hel 5 716
+hel 6 683
+hel 7 435
+hel 8 491
+hel 9 557
+hel 10 256
+hel 11 520
+hel 12 315
+hel 13 642
+hel 14 495
+hel 15 296
+hel 16 375
+3-ne 1 528
+3-ne 2 277
+3-ne 3 525
+3-ne 4 550
+3-ne 5 345
+3-ne 6 467
+3-ne 7 408
+3-ne 8 347
+3-ne 9 356
+3-ne 10 331
+3-ne 11 612
+3-ne 12 540
+3-ne 13 358
+3-ne 14 267
+3-ne 15 300
+3-ne 16 298
+3-ne 17 316
+3-ne 18 526
+3-ne 19 497
+3-ne 20 630
+3-ne 21 388
+3-ne 22 195
+3-ne 23 181
+3-ne 24 275
+3-ne 25 79
+3-ne 26 281
+3-ne 27 516
+3-ne 28 493
+3-ne 29 162
+3-ne 30 67
+4-ne 1 780
+morm 1 297
+morm 2 489
+morm 3 371
+morm 4 331
+morm 5 420
+morm 6 364
+morm 7 184
+morm 8 717
+morm 9 657
+ether 1 349
+ether 2 505
+ether 3 501
+ether 4 366
+ether 5 95
+ether 6 401
+ether 7 360
+ether 8 490
+ether 9 543
+ether 10 534
+ether 11 296
+ether 12 627
+ether 13 476
+ether 14 426
+ether 15 483
+moro 1 77
+moro 2 56
+moro 3 57
+moro 4 70
+moro 5 46
+moro 6 143
+moro 7 772
+moro 8 461
+moro 9 441
+moro 10 473
