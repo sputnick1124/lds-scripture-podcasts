@@ -3,7 +3,7 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 CHAP_FILE="$1/$1.txt"
 TOT_LENGTH=0
 LINE_CACHE="$1/.ln"
-LINE_CNT=$(wc "$CHAP_FILE" | cut -d" " -f2)
+LINE_CNT=$(wc "$CHAP_FILE" | awk '{$1=$1};1' | cut -d" " -f1)
 
 if [ -f "$LINE_CACHE" ]; then
 	LINENUM=$(cat "$LINE_CACHE")
