@@ -19,7 +19,7 @@ tail -n +"$LINENUM" "$CHAP_FILE" | \
 while read line; do
 	((LINENUM++))
 	echo "Downloading $line"
-	uri=$(python3 update-podcast.py $(echo "$line" | cut -d" " -f1,2 | xargs))
+	uri=$(python update-podcast.py $(echo "$line" | cut -d" " -f1,2 | xargs))
 	LENGTH=$(echo "$line" | cut -d" " -f3)
 	((TOT_LENGTH+=LENGTH))
 	if (( TOT_LENGTH > 1800 )); then
