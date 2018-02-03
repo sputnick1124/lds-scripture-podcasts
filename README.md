@@ -1,5 +1,5 @@
 # LDS Scripture Podcast with Daily Downloads
-This provides a method to integrate scripture audio doanloaded from [lds.org](lds.org/scriptures) into a podcast feed. Currently 
+This provides a method to integrate scripture audio downloaded from [lds.org](lds.org/scriptures) into a podcast feed. Currently 
 supports Book of Mormon, but there is no barrier to supporting all of the standard works.
 
 ## Adding to your podcast feed
