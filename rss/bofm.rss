@@ -219,5 +219,37 @@
       <pubDate>Friday, 09 Feb 2018 00:00:06</pubDate>
       <enclosure length="0" type="audio/mpeg" url="http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0230-2-nephi-01-male-voice-64k-eng.mp3" />
     </item>
+    <item>
+      <guid>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0230-2-nephi-01-female-voice-64k-eng.mp3</guid>
+      <link>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0230-2-nephi-01-female-voice-64k-eng.mp3</link>
+      <title>2 Ne 1</title>
+      <description>2015-11-0230-2-nephi-01-female-voice-64k-eng.mp3</description>
+      <pubDate>Monday, 12 Feb 2018 00:00:03</pubDate>
+      <enclosure length="0" type="audio/mpeg" url="http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0230-2-nephi-01-female-voice-64k-eng.mp3" />
+    </item>
+    <item>
+      <guid>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0240-2-nephi-02-female-voice-64k-eng.mp3</guid>
+      <link>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0240-2-nephi-02-female-voice-64k-eng.mp3</link>
+      <title>2 Ne 2</title>
+      <description>2015-11-0240-2-nephi-02-female-voice-64k-eng.mp3</description>
+      <pubDate>Monday, 12 Feb 2018 00:00:05</pubDate>
+      <enclosure length="0" type="audio/mpeg" url="http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0240-2-nephi-02-female-voice-64k-eng.mp3" />
+    </item>
+    <item>
+      <guid>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0250-2-nephi-03-male-voice-64k-eng.mp3</guid>
+      <link>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0250-2-nephi-03-male-voice-64k-eng.mp3</link>
+      <title>2 Ne 3</title>
+      <description>2015-11-0250-2-nephi-03-male-voice-64k-eng.mp3</description>
+      <pubDate>Monday, 12 Feb 2018 00:00:07</pubDate>
+      <enclosure length="0" type="audio/mpeg" url="http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0250-2-nephi-03-male-voice-64k-eng.mp3" />
+    </item>
+    <item>
+      <guid>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0260-2-nephi-04-female-voice-64k-eng.mp3</guid>
+      <link>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0260-2-nephi-04-female-voice-64k-eng.mp3</link>
+      <title>2 Ne 4</title>
+      <description>2015-11-0260-2-nephi-04-female-voice-64k-eng.mp3</description>
+      <pubDate>Monday, 12 Feb 2018 00:00:08</pubDate>
+      <enclosure length="0" type="audio/mpeg" url="http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0260-2-nephi-04-female-voice-64k-eng.mp3" />
+    </item>
   </channel>
 </rss>
