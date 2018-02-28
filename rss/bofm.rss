@@ -635,5 +635,37 @@
       <pubDate>Tuesday, 27 Feb 2018 06:01:07</pubDate>
       <enclosure length="0" type="audio/mpeg" url="http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0650-omni-01-female-voice-64k-eng.mp3" />
     </item>
+    <item>
+      <guid>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0650-omni-01-male-voice-64k-eng.mp3</guid>
+      <link>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0650-omni-01-male-voice-64k-eng.mp3</link>
+      <title>Omni 1</title>
+      <description>2015-11-0650-omni-01-male-voice-64k-eng.mp3</description>
+      <pubDate>Wednesday, 28 Feb 2018 00:00:07</pubDate>
+      <enclosure length="0" type="audio/mpeg" url="http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0650-omni-01-male-voice-64k-eng.mp3" />
+    </item>
+    <item>
+      <guid>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0660-words-of-mormon-01-female-voice-64k-eng.mp3</guid>
+      <link>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0660-words-of-mormon-01-female-voice-64k-eng.mp3</link>
+      <title>W Of M 1</title>
+      <description>2015-11-0660-words-of-mormon-01-female-voice-64k-eng.mp3</description>
+      <pubDate>Wednesday, 28 Feb 2018 00:00:08</pubDate>
+      <enclosure length="0" type="audio/mpeg" url="http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0660-words-of-mormon-01-female-voice-64k-eng.mp3" />
+    </item>
+    <item>
+      <guid>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0670-mosiah-01-male-voice-64k-eng.mp3</guid>
+      <link>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0670-mosiah-01-male-voice-64k-eng.mp3</link>
+      <title>Mosiah 1</title>
+      <description>2015-11-0670-mosiah-01-male-voice-64k-eng.mp3</description>
+      <pubDate>Wednesday, 28 Feb 2018 00:00:09</pubDate>
+      <enclosure length="0" type="audio/mpeg" url="http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0670-mosiah-01-male-voice-64k-eng.mp3" />
+    </item>
+    <item>
+      <guid>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0680-mosiah-02-female-voice-64k-eng.mp3</guid>
+      <link>http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0680-mosiah-02-female-voice-64k-eng.mp3</link>
+      <title>Mosiah 2</title>
+      <description>2015-11-0680-mosiah-02-female-voice-64k-eng.mp3</description>
+      <pubDate>Wednesday, 28 Feb 2018 00:00:09</pubDate>
+      <enclosure length="0" type="audio/mpeg" url="http://media2.ldscdn.org/assets/scriptures/the-book-of-mormon-another-testament-of-jesus-christ/2015-11-0680-mosiah-02-female-voice-64k-eng.mp3" />
+    </item>
   </channel>
 </rss>
